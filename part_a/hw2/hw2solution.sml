@@ -215,6 +215,7 @@ fun officiate_challenge (cards, moves, goal) =
 
 
 (* 3.(b) *)
+(*
 fun careful_player(cards, goal) =
 	let
 		fun make_next_move (held_cards, cs, prev_moves) =
@@ -231,4 +232,4 @@ fun careful_player(cards, goal) =
 		make_next_move ([], cards, [])
 	end
 	
-
+*)
